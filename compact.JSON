@@ -1,0 +1,15 @@
+{
+   "headline": "IPTV CHAGAS",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "Canais"
+      },
+      {
+         "icon": "movie",
+         "label": "Videos",
+         "extensionLabel": "Default",
+         "data": "https://raw.githubusercontent.com/FledsonChagas/MSXApp/main/IPTV.JSON"
+      }
+   ]
+}
