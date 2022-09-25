@@ -7,7 +7,7 @@
       },
       {
          "icon": "movie",
-         "label": "Videos",
+         "label": "Lista",
          "extensionLabel": "Default",
          "data": "https://raw.githubusercontent.com/FledsonChagas/MSXApp/main/IPTV.JSON"
       }
