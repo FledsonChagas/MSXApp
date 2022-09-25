@@ -1,6 +1,6 @@
 {    
     "name": "Start",
     "version": "1.0.0",
-    "parameter": "menu:https://raw.githubusercontent.com/FledsonChagas/MSXApp/main/IPTV.JSON",
+    "parameter": "menu:https://raw.githubusercontent.com/FledsonChagas/MSXApp/main/compact.JSON",
     "welcome": "none"
 }
