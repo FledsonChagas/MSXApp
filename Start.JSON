@@ -1,6 +1,6 @@
 {    
-    "name": "Start",
+    "name": "IPTV Chagas",
     "version": "1.0.0",
     "parameter": "menu:https://raw.githubusercontent.com/FledsonChagas/MSXApp/main/compact.JSON",
-    "welcome": "none"
+    "welcome": "Seja Bem vindo"
 }
